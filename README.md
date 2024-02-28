@@ -15,4 +15,4 @@ This repository contains a Java project with a Jenkins pipeline for continuous i
 *Deploy Application to Tomcat Server*: Finally, the pipeline deploys the application to a Tomcat server for hosting. Tomcat is an open-source web server and servlet container used to deploy Java-based web applications.
 
 ## Jenkins Pipeline Flow Diagram
-![image](./images/cicd-project.drawio)
+![image](./images/cicd-project.drawio.png)
